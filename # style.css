@@ -15,7 +15,17 @@ html,body {
 .top{
     width:100%;
     min-height: 60vh;
-    background-image: url();
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEPjHSBteq_Qg3CEYflOqwmC7KjnQWgC9HKExWObPwqMiNqni3EM3eVTj7&s=10);
     background-size: cover;
     background-position: center;
  }
+.top .overlay{
+     position: relative;
+     width: 100%;
+     min-height: inherit;
+     background-color: rgba(0,0,0,0,295);
+}
+
+   
+
+     
